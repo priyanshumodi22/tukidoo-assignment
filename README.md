@@ -1,3 +1,9 @@
+# Responsiveness
+
+If your screen display scale is 100%, then the browser should be zoomed in at 140%
+and if the scale if of 150%, then the browser should be zoomed 90%.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
