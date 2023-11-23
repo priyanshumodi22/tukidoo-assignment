@@ -21,7 +21,7 @@ const App = () => {
             <Actions />
           </div>
           <div className='flex-1'>
-            <iframe width="100%" height="433" src="https://www.youtube.com/embed/S0DSM-EkQE8" title="An introduction to mathematical theorems - Scott Kennedy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="100%" height="497" src="https://www.youtube.com/embed/S0DSM-EkQE8" title="An introduction to mathematical theorems - Scott Kennedy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
         </div>
       </div>
